@@ -16,7 +16,7 @@ limitations under the License.
 ***/
 
 /// Python is insisting on defined _POSIX_C_SOURCE and _X_OPEN_SOURCE
-#include "Python.h"
+#include "python2.7/Python.h"
 #include "ObjectHolder.hh"
 #include "dsAssert.hh"
 #include <limits>

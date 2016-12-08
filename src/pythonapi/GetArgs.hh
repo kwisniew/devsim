@@ -17,7 +17,7 @@ limitations under the License.
 
 #ifndef GETARGS_HH
 #define GETARGS_HH
-#include "Python.h"
+#include "python2.7/Python.h"
 #include "ObjectHolder.hh"
 #include "CommandHandler.hh"
 #include <set>

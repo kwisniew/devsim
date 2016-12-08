@@ -15,9 +15,9 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ***/
 
-#include "Python.h"
-#include "ceval.h"
-#include "frameobject.h"
+#include "python2.7/Python.h"
+#include "python2.7/ceval.h"
+#include "python2.7/frameobject.h"
 
 #include "PythonCommands.hh"
 #include "Interpreter.hh"

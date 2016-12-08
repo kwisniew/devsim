@@ -15,7 +15,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ***/
 
-#include "Python.h"
+#include "python2.7/Python.h"
 #include "CommandHandler.hh"
 #include "CommandHandlerCommon.cc"
 #include "GetArgs.hh"

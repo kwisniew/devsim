@@ -17,7 +17,7 @@ limitations under the License.
 
 #ifndef DS_PYTHON_COMMANDS_HH
 #define DS_PYTHON_COMMANDS_HH
-#include "Python.h"
+#include "python2.7/Python.h"
 class CommandHandler;
 typedef void (*newcmd)(CommandHandler &);
 namespace dsPy {
