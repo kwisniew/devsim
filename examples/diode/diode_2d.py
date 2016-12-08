@@ -55,3 +55,6 @@ while v < 0.51:
   PrintCurrents(device, "bot")
   v += 0.1
 
+
+write_devices(file="diode_2d", type="vtk")
+

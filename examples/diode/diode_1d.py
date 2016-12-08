@@ -61,6 +61,7 @@ while v < 0.51:
   v += 0.1
 
 write_devices(file="diode_1d.dat", type="tecplot")
+write_devices(file="diode_1d", type="vtk")
 
 #import matplotlib
 #import matplotlib.pyplot
